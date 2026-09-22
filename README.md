@@ -5,7 +5,7 @@ Business Problem & Key Objectives
 •Evaluate market penetration and sales distribution across key regions.
 •Analyze purchasing patterns and average order values (AOV) across age demographics and income brackets.
 •Build an automated, interactive analytical framework enabling dynamic filtering by date, region, and category.
-  Data Workflow
+## Data Workflow
 •Data Extraction: Imported raw relational tables containing sales transactions, customer demographics, and product metadata.
 • Data Cleaning: Evaluated missing values, eliminate unnecessary null records and duplicates, restructure standard data types (dates, currencies), and format table to ensure a smooth creation of pivot-tables
 •Pivot-Tables: Created pivot-tables to summarize data into a meaningful and useful information for analysis while also calculated some derived metrics (Average sales, Sum total sales)
@@ -15,3 +15,4 @@ Row Labels	Sum of Total Sales
 2025	              ₦231,882.85 
 Grand Total	 ₦1,264,761.96 
 
+-<a href=*https://github.com/YOgitOps/Data-Analysis-Pivots/blob/main/Project%201.xlsx*>Dataset</a>
